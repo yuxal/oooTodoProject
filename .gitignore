@@ -1,0 +1,32 @@
+# Visual Studio Code #
+.vs/
+.vs/*
+
+# Windows #
+Thumbs.db
+Desktop.ini
+
+# Node.js #
+node_modules/
+
+# Compiled output #
+dist/
+out/
+*.exe
+*.dll
+*.pdb
+*.msi
+*.zip
+*.tar.gz
+
+# Logs and databases #
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+ehthumbs_vista.db
